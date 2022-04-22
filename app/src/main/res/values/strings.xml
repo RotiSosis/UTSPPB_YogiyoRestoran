@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Restoran Yogiyo</string>
+    <string-array name="jarakTempuh">
+        <item>Jarak:100m</item>
+        <item>Jarak:200m</item>
+        <item>Jarak:300m</item>
+        <item>Jarak:400m</item>
+        <item>Jarak:500m</item>
+        <item>Jarak:1km</item>
+        <item>Jarak:2km</item>
+        <item>Jarak:2km</item>
+        <item>Jarak:2km</item>
+        <item>Jarak:3km</item>
+    </string-array>
+
+    <string-array name="estimasi">
+        <item>estimasi:20menit</item>
+        <item>estimasi:25menit</item>
+        <item>estimasi:30menit</item>
+        <item>estimasi:35menit</item>
+        <item>estimasi:40menit</item>
+        <item>estimasi:1jam40menit</item>
+        <item>estimasi:2jam</item>
+        <item>estimasi:2jam30menit</item>
+        <item>estimasi:2jam10menit</item>
+        <item>estimasi:3jam</item>
+    </string-array>
+
+
+
+    <array name="restaurant">
+        <item>Krusty Crab</item>
+        <item>Freddy\'s Fazbear Pizza Plex</item>
+        <item>The Gwinnett Restaurant</item>
+        <item>Cambrige Campus Dinner</item>
+        <item>Big Fred\'s BBQ Shack</item>
+        <item>Pizza Palor</item>
+        <item>Prospector Saloon</item>
+        <item>Grub n\' Gulp Rest Shop</item>
+        <item>Mean Pastries</item>
+        <item>Big Horn Saloon</item>
+    </array>
+
+    <array name="biaya">
+        <item>Rp.10.000</item>
+        <item>Rp.12.000</item>
+        <item>Rp.18.000</item>
+        <item>Rp.15.000</item>
+        <item>Rp.21.000</item>
+        <item>Rp.24.000</item>
+        <item>Rp.20.000</item>
+        <item>Rp.31.000</item>
+        <item>Rp.19.000</item>
+        <item>Rp.22.000</item>
+    </array>
+
+    <string name="lorem">"Lorem ipsum dolor sit amet, consectetur adipiscing elit"</string>
+    <string name="minPemesanan">Minimal Pemesanan : Rp.35.000</string>
+    <string name="rating"> <b>4.2</b> </string>
+
+
+</resources>
